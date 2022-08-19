@@ -88,7 +88,7 @@ hi Search         ctermfg=232     ctermbg=162     cterm=NONE      guifg=#8a8a8a 
 hi IncSearch      ctermfg=255     ctermbg=132     cterm=NONE      guifg=#eeeeee   guibg=#8a8a8a   gui=NONE
 hi PmenuThumb     ctermfg=232     ctermbg=240     cterm=NONE      guifg=#080808   guibg=#585858   gui=NONE
 hi Pmenu          ctermfg=255     ctermbg=240     cterm=NONE      guifg=#eeeeee   guibg=#585858   gui=NONE
-hi SignColumn     ctermfg=124     ctermbg=240     cterm=NONE      guifg=#af0000   guibg=#585858   gui=NONE
+hi SignColumn     ctermfg=124     ctermbg=NONE    cterm=NONE      guifg=#af0000   guibg=#585858   gui=NONE
 hi Underlined     ctermfg=124     ctermbg=NONE    cterm=NONE      guifg=#af0000   guibg=#000000   gui=NONE
 hi MatchParen     ctermfg=16      ctermbg=245     cterm=NONE      guifg=#000000   guibg=#8a8a8a   gui=NONE
 hi ColorColumn    ctermfg=16      ctermbg=250     cterm=NONE      guifg=#000000   guibg=#bcbcbc   gui=NONE
